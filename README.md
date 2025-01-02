@@ -1,1 +1,1 @@
-# Bhagyam
+An experienced Tech Lead with over a decade of expertise in Oracle SQL, PL/SQL, and UNIX Shell Scripting. Proven track record in managing support, enhancement, and development projects across various industries, including Retail, Supply Chain, Banking, Xerox, and Air Cargo. Adept at leading teams, solving technical issues, and ensuring the uptime and efficiency of mission-critical applications. 
